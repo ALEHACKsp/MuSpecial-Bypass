@@ -1,4 +1,4 @@
-# MuHackProtection Bypass
+# MuSpecial bypass
 MHP-Bypass
 
 Simple bypass preventing loading of module MHPClient.dll (does not have heartbeat).

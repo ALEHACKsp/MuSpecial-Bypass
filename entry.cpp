@@ -3,7 +3,7 @@
 #include <tchar.h>
 #include "functions.h"
 
-constexpr auto m_rva = 0x127A0;
+constexpr auto m_rva = 0x127C7;
 
 int main()
 {

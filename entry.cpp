@@ -19,7 +19,7 @@ int main()
 	std::cout << "- Disabled checking CRC integrity\n";
 	std::cout << "- You can modify the MHPClient all you want\n\n";
 	std::cout << "------------------------------------------\n";
-	std::cout << "           Author: Define#5696\n";
+	std::cout << "           Author: lucass\n";
 	std::cout << "------------------------------------------";
 	while (!process_id)
 	{
